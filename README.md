@@ -68,7 +68,7 @@ HTTPS Dev Server (required for Excel Add-ins)
 
 Installation & Setup:
 1. Clone Repository
-git clone https://github.com/your-username/vendor-payment-manager.git
+git clone https://github.com/nitish2604/vendor-payment-excel-addin.git
 cd vendor-payment-manager
 
 2. Install dependencies
