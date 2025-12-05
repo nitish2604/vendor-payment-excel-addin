@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp
+  xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:type="TaskPaneApp">
+
+  <Id>9f30c1b2-bf6c-41c9-9c95-abc12345ffff</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>Nitish Vendor Manager</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+
+  <DisplayName DefaultValue="Vendor Payment & Bank Manager" />
+  <Description DefaultValue="Excel Add-in to manage vendors, payments, and bank reports." />
+
+  <IconUrl DefaultValue="https://localhost:3000/assets/icon32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon80.png"/>
+
+  <SupportUrl DefaultValue="https://localhost:3000" />
+
+  <!-- Permissions -->
+  <Permissions>ReadWriteDocument</Permissions>
+
+  <Hosts>
+    <Host Name="Workbook" />
+  </Hosts>
+
+  <DefaultSettings>
+    <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+  </DefaultSettings>
+
+</OfficeApp>
