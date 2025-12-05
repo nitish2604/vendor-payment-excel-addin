@@ -112,3 +112,13 @@ Web App + Excel Mode
 Dual Execution System
 README.md
 Screenshot support
+
+Screenshots:
+<img width="2880" height="1800" alt="login" src="https://github.com/user-attachments/assets/41531020-5fc2-46bd-979c-4e2925b6eac5" />
+
+<img width="2880" height="1800" alt="main1" src="https://github.com/user-attachments/assets/e0f40d5d-2848-4792-9275-5cd4edcb1949" />
+
+<img width="2880" height="1800" alt="main2" src="https://github.com/user-attachments/assets/2254b708-21a6-4547-ba62-cdd68d3085a2" />
+
+<img width="858" height="670" alt="excel_csv_result" src="https://github.com/user-attachments/assets/09a514eb-39b6-46a5-bbc6-67c787e6ff61" />
+
